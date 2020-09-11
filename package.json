@@ -1,5 +1,5 @@
 {
-  "name": "pm2",
+  "name": "@onephrase/pm2",
   "preferGlobal": true,
   "version": "4.4.1",
   "engines": {
